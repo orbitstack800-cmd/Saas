@@ -1,5 +1,5 @@
 import { HoverBorderGradient } from '@/components/ui/hover-border-gradient';
-
+import {ThreeDPhotoCarousel} from '@/components/ui/3d-carousel';
 
 export default function Home() {
   return (
@@ -7,6 +7,7 @@ export default function Home() {
       <HoverBorderGradient>
         21st Dev work here
       </HoverBorderGradient>
+      <ThreeDPhotoCarousel />
     </div>
   );
 }
