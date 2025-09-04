@@ -1,3 +1,4 @@
+
 # Quick GitHub Workflow - Web Interface Only
 
 Simple 5-step process using only GitHub's web interface.
@@ -54,3 +55,4 @@ Simple 5-step process using only GitHub's web interface.
 - Reference issue in commit messages
 - Include `Closes #123` in PR description
 - Delete branches after merging
+
